@@ -44,7 +44,7 @@ tags:
   * Step over （F8）  单步运行，运行接下来的一条代码
   * Step into  （F7）  配合F8运行，进入函数每部，碰到想要查看具体运行过程的函数可以在F8到这个位置之后 F7进入函数内部查看
   * Step into mycode  （alt+shift+F7） F7和F8的结合，遇到函数会进入函数内部，否则只会F7单步运行
-  * Force step Into （shift + F8）进入函数内部后调试完，使用这个跳出
+  * Step out （shift + F8）进入函数内部后调试完，使用这个跳出
   * Resume program (F9)  直接跳到下一个断点
   * Run to cursor （alt + F9） 运行光标位置的代码
 
