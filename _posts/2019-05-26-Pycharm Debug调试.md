@@ -7,8 +7,9 @@ author:     Threekb
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
-    - typora
-    - markdown语法
+    - python
+    - pycharm
+    - Debug
 ---
 
 # Pycharm断点调试
