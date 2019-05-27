@@ -46,7 +46,7 @@ tags:
 
 * 开始下载
 
-![1558935433455](C:\Users\Devin‘PC\AppData\Roaming\Typora\typora-user-images\1558935433455.png)
+![](https://threekb-1259310634.cos.ap-beijing.myqcloud.com/blog/20190527135938.png)
 
 ### B站视频下载
 
@@ -70,5 +70,5 @@ tags:
 
 ![](https://threekb-1259310634.cos.ap-beijing.myqcloud.com/blog/20190527134333.png)
 
-#### `谢过开发者 ：）`
+#### `谢过开发者 ：)`
 
