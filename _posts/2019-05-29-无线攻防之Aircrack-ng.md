@@ -27,7 +27,7 @@ tags:
 
 * 将无线网卡插入电脑，如果是虚拟机并接入虚拟机，并在kali终端查看可用的无线网卡
 
-​       输入  `airmon-ng` 查看可用网卡
+* 输入  `airmon-ng` 查看可用网卡
 
 ![](https://threekb-1259310634.cos.ap-beijing.myqcloud.com/blog/20190529202827.png)
 
@@ -35,9 +35,9 @@ tags:
 
 * 将无线网卡开启监听模式
 
-  输入`airmon-ng start + 无线网卡名称` 开启网卡监听模式
+* 输入`airmon-ng start + 无线网卡名称` 开启网卡监听模式
 
-  例如：`airmon-ng start wlan0`
+* 例如：`airmon-ng start wlan0`
 
   ![](https://threekb-1259310634.cos.ap-beijing.myqcloud.com/blog/20190529203121.png)
 
@@ -47,9 +47,9 @@ tags:
 
 * 扫描附近的无线网络
 
-​       输入`airodump-ng + 处于监听模式的重命名后的无线网卡的名称` 扫描附近网络
+* 输入`airodump-ng + 处于监听模式的重命名后的无线网卡的名称` 扫描附近网络
 
-​	   例如:`airodump-ng wlan0mon`
+* 例如:`airodump-ng wlan0mon`
 
 ![](https://threekb-1259310634.cos.ap-beijing.myqcloud.com/blog/20190529203509.png)
 
